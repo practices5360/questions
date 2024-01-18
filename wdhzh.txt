@@ -1,16 +1,18 @@
 PrivacyPolicy
 
-About Us and this Policy
+Thank you for playing our games! Your privacy and security are of great importance to us. We are focused on giving you the best possible experience, without compromising the information you are sharing with us by using our games, which we collectively call services. This policy is meant to give you a detailed description of how we handle your data and how you can manage it.
 
 This Privacy Policy explains when we collect information about you, including Personal Information (“PI”), what we collect, why we collect it, how we use it, who we share it with, where it is processed, how we handle it and your choices and legal rights associated with this information. Your use of our websites, products, services, or other online activities (“Services”) constitutes your consent to these practices.
 
-Contact Us
-
-Please contact us with any privacy questions see the bottom of this Privacy Policy for additional ways to contact us or to contact us for specific matters.
-
-Information That We Collect or Receive
-
-We collect and receive information from and about you by different means as described below.
+create and maintain an account for you in our Games or other Services where applicable,
+enable you to play our Games or use our other Services, and provide their correct versions (for example, selecting an appropriate language version for you),
+verify your purchases or other transactions in our Games or other Services,
+where available, enable you to communicate with other users in our Games or other Services (for example, by providing chat, forums, or other similar features),
+where available, provide social features (for example, clans, matchmaking, or leaderboards) or events in our Games or other Services, 
+personalize your gameplay experience and provide you with offers and rewards in our Games based on your activity in those Games,
+where available, enable you to save and synch your gameplay across multiple devices (for example, by giving you the option to connect a third-party account with our Games for that purpose),
+send you service-related communications (for example, technical notices, security alerts, or administrative messages), or
+handle your support requests or otherwise manage our relationship with you.
 
 Information You Provide to Us
 
@@ -31,6 +33,16 @@ This section explains how we may use the information we collect about you. We ma
 Services
 
 We may use your information to operate our Services. We may also personalize the services we provide to you based on the information we have collected about you (for instance, we may use your IP address to display content relevant for your area). And, to enable accessibility settings functions (for you, or other users), we may convert your voice data to text.
+
+With your consent, we may process your data to:
+
+send you newsletters or other similar communications if you have subscribed to them (for example, through a subscription form on our Websites or link in our Games),
+ask our advertising partners to show or not show our ads to you based on your activity (including by limiting the number of times you see our ads),
+ask our advertising partners to advertise our Games or other Services to audiences who they believe have interests similar to yours,
+keep track of your activity in our Games to learn about your interests and improve the advertising in our Games, or
+personalize, or ask our advertising partners to personalize, the ads you see in our Games to make them more relevant to you, 
+place cookies on your device when you use the Websites (through our cookie consent manager/banner), or
+for other purposes explained to you when we ask for your consent.
 
 Development
 
